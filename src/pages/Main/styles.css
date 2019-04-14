@@ -35,6 +35,6 @@
     cursor: pointer;
 }
 
-#main-container form button> :hover {
+#main-container form button:hover {
     opacity: 0.8;
 }
