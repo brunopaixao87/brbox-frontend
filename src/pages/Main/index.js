@@ -26,7 +26,9 @@ export default class Main extends Component {
     return (
       <div id="main-container">
         <form onSubmit={this.handleSubmit}>
-          <img src={logo} alt="" />
+          <div className="logo">
+             <img src={logo} alt="" />
+          </div>
           <input placeholder="Criar um box" 
             value={this.state.newBox}
             required

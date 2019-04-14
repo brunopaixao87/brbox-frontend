@@ -1,12 +1,12 @@
-<svg width="195" height="34" xmlns="http://www.w3.org/2000/svg">
+<svg width="145" height="40" xmlns="http://www.w3.org/2000/svg">
 
  <g>
   <title>background</title>
-  <rect fill="none" id="canvas_background" height="36" width="197" y="-1" x="-1"/>
+  <rect fill="none" id="canvas_background" height="42" width="147" y="-1" x="-1"/>
  </g>
  <g>
   <title>Layer 1</title>
-  <path fill="#7159c1" stroke="null" id="svg_1" d="m63.015332,25.232667l2.827,-1.696l0,1.543l-9.531,6.182l-9.32,-6.226l0,-1.453l2.788,1.652l0.31,0.183l0.286,-0.219l6.021,-4.621l6.019,4.621l0.288,0.219l0.312,-0.185zm-6.599,-17.435l9.166,5.266l-9.249,6.129l-9.192,-5.791l9.275,-5.604zm15.916,0.308l-9.443,-6.034l-6.493,5.444l-6.346,-5.444l-9.717,6.329l6.691,5.09l-6.691,5.091l6.657,3.944l3.06,1.811l6.346,-4.87l6.344,4.87l3.102,-1.861l6.491,-3.894l-6.197,-5.313l6.196,-5.163z"/>
-  <text font-weight="bold" stroke="null" transform="matrix(1.0508596897125244,0,0,1,-1.6608867421746254,0) " xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_2" y="25.8125" x="71.999541" stroke-opacity="null" stroke-width="0" fill="#7159c1">BrBox</text>
+  <path stroke="null" fill="#7159c1" id="svg_1" d="m30.276417,31.771776l3.77354,-2.321289l0,2.111881l-12.722184,8.461209l-12.440536,-8.521431l0,-1.988699l3.721482,2.261067l0.413795,0.250469l0.381759,-0.299742l8.03696,-6.324692l8.034291,6.324692l0.384429,0.299742l0.416464,-0.253207zm-8.808487,-23.863019l12.234974,7.207494l-12.345764,8.388669l-12.269679,-7.926053l12.380469,-7.670109zm21.245019,0.421555l-12.604719,-8.258644l-8.666996,7.45112l-8.470777,-7.45112l-12.97046,8.662406l8.931291,6.966605l-8.931291,6.967974l8.885907,5.398093l4.084554,2.478688l8.470777,-6.665495l8.468108,6.665495l4.140616,-2.547122l8.664326,-5.329658l-8.271889,-7.271822l8.270554,-7.066519z"/>
+  <text font-weight="bold" stroke="null" transform="matrix(1.35053619663348,0,0,1.2736878608539823,-30.353455285568828,-1.309885627063464) " xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_2" y="25.753303" x="55.241569" stroke-opacity="null" stroke-width="0" fill="#7159c1">BrBox</text>
  </g>
 </svg>
